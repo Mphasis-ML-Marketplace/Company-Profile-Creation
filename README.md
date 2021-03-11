@@ -13,4 +13,4 @@ An NLP and knowledge graph based approach to create company profile by aggregati
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need Customized Deep learning and Machine Learning Solutions? Get in Touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-jvlejghougdd2)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-lbg2pgzifppco)
